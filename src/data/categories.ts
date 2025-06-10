@@ -1,6 +1,7 @@
 import { Category } from '../types';
 
 export const categories: Category[] = [
+  
   {
     id: 'surgical-packs',
     name: 'Surgical Packs',
