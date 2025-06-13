@@ -1,35 +1,34 @@
 import { Category } from '../types';
 
 export const categories: Category[] = [
-  
   {
     id: 'surgical-packs',
     name: 'Surgical Packs',
-    description: 'Complete sterile surgical packs for various procedures',
-    image: 'https://images.pexels.com/photos/3259629/pexels-photo-3259629.jpeg'
+    description: 'Complete sterile surgical packs for various medical procedures',
+    image: 'https://varrada.com/wp-content/uploads/2023/06/General-Surgery-pack-570x570.png'
   },
   {
     id: 'drapes',
-    name: 'Drapes',
+    name: 'Surgical Drapes',
     description: 'Sterile drapes for surgical and medical procedures',
-    image: 'https://images.pexels.com/photos/3376790/pexels-photo-3376790.jpeg'
+    image: 'https://varrada.com/wp-content/uploads/2023/06/Angiography-Drape-380-500.jpg'
   },
   {
     id: 'gloves',
-    name: 'Gloves',
-    description: 'Medical grade examination and surgical gloves',
-    image: 'https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg'
+    name: 'Medical Gloves',
+    description: 'Latex, nitrile, and vinyl gloves for examination and surgical use',
+    image: 'https://varrada.com/wp-content/uploads/2023/06/latex-gloves.png'
   },
   {
     id: 'uniforms',
-    name: 'Uniforms',
-    description: 'Medical scrubs and professional healthcare attire',
-    image: 'https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg'
+    name: 'Medical Uniforms',
+    description: 'Professional medical scrubs, gowns, and protective wear',
+    image: 'https://varrada.com/wp-content/uploads/2023/06/UCSG101-male-surgical-gown-570x570.png'
   },
   {
     id: 'devices',
-    name: 'Devices',
-    description: 'Medical devices and monitoring equipment',
-    image: 'https://images.pexels.com/photos/4226119/pexels-photo-4226119.jpeg'
+    name: 'Medical Devices',
+    description: 'Digital health monitoring devices and diagnostic equipment',
+    image: 'https://varrada.com/wp-content/uploads/2023/07/1-1-570x510.jpg'
   }
 ];
