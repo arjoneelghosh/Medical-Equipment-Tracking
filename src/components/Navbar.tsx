@@ -13,7 +13,7 @@ export default function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex-shrink-0 flex items-center">
             <Link to="/" className="flex items-center">
-              <img src="/2.png" alt="SurgMedi" className="h-16 w-auto mb-9 ml-2" />
+              <img src="/2.png" alt="SurgMedi" className="h-16 w-auto mb-8 ml-2" />
             </Link>
           </div>
 
